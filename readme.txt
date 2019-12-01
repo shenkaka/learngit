@@ -1,2 +1,2 @@
-Git is a version control system.
-Git is free software.
+我的第一个文件，存储到git中
+
